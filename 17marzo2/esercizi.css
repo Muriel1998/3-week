@@ -1,0 +1,59 @@
+p
+{
+    display: inline-block;
+    text-align: center;
+    color: #ff00ff;
+    width: 100%;
+}
+
+
+/* button
+{
+    display: block;
+    color: #ff00ff;
+    
+} */
+
+
+h1 {
+    display: block;
+    color: #ff00ff;
+    text-align: center;
+     padding: 10px 30px;
+    font-size: 50px;
+}
+
+
+ul {
+    display: block;
+    color: black;
+    text-align: center;
+    list-style-type: none;
+    padding: 10px 30px;
+    font-size: 20px;
+}
+
+#filtro
+{
+    padding: 10px 30px;
+    font-size: 20px;
+
+
+}
+
+
+
+#tasto
+{
+    background: #ff00ff;
+    color: black;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 20px;
+    transition: all 0.3s ease-out;
+    border: 2px black solid;
+    cursor: pointer;
+}
